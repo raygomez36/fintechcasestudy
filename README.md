@@ -2,7 +2,7 @@
 
 # Broadridge FinTech Case-Study
 
-![BroadRidge Image](C:\Users\rayde\Desktop\fintechcasestudy\BRImage.png)
+![BroadRidge Image](BRImage.png)
 
 ## Contents Below:
 
