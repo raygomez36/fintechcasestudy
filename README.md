@@ -2,7 +2,7 @@
 
 # Broadridge FinTech Case-Study
 
-![alt text](C:\Users\rayde\Desktop\fintechcasestudy\BRImage.png)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ABroadridge_Financial_Solutions_Logo.svg&psig=AOvVaw2MEbdzV0gHv5eAu7t4jxAP&ust=1695102037254000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjnpqq5s4EDFQAAAAAdAAAAABAI)
 
 ## Contents Below:
 
